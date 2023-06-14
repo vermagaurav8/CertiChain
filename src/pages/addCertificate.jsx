@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from "uuid";
 import React, { useState, useEffect } from "react";
 import Web3 from "web3";
-import certichain from "../../artifacts/contracts/CertiChain.sol/CertificateStore.json";
+import certichain from "../../artifacts/contracts/CertiChain.sol/CertiChain.json";
 import { certichainAddress } from "../../config";
 import { Loader } from "../component";
 import { toast } from "react-toastify";

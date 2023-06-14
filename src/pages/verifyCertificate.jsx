@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import certichain from "../../artifacts/contracts/CertiChain.sol/CertificateStore.json";
+import certichain from "../../artifacts/contracts/CertiChain.sol/CertiChain.json";
 import { certichainAddress } from "../../config";
 import Web3 from "web3";
 import { CertificateDetail, Loader } from "../component";
