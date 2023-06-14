@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
-import certichain from '../../artifacts/contracts/CertiChain.sol/CertificateStore.json';
+import certichain from '../../artifacts/contracts/CertiChain.sol/CertiChain.json';
 import { certichainAddress } from '../../config';
 import { toast } from 'react-toastify';
 
