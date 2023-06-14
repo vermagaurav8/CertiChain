@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/media/vermag/Free SSD/Projects/Blockchain/CertiChain/contracts/CertiChain.sol": {
+      "lastModificationDate": 1686778214208,
+      "contentHash": "70fd516c0a7798c45856c21a73a1fb47",
+      "sourceName": "contracts/CertiChain.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CertiChain"
+      ]
+    }
+  }
+}
